@@ -7,4 +7,5 @@
 #redis:7.2.4
 #postgis/postgis:16-3.4
 #nacos/nacos-server:v2.2.3
-nacos/nacos-server:v2.4.0
+#nacos/nacos-server:v2.4.0
+prom/prometheus:v2.54.1
