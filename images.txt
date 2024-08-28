@@ -9,4 +9,5 @@
 #nacos/nacos-server:v2.2.3
 #nacos/nacos-server:v2.4.0
 #prom/prometheus:v2.54.1
-grafana/grafana:11.2.0
+#grafana/grafana:11.2.0
+prom/node-exporter:v1.8.2
