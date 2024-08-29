@@ -12,5 +12,6 @@
 #grafana/grafana:11.2.0
 #prom/node-exporter:v1.8.2
 #mysql:8.3.0
-rocketmqinc/rocketmq:4.4.0
-apacherocketmq/rocketmq-dashboard:1.0.0
+#rocketmqinc/rocketmq:4.4.0
+#apacherocketmq/rocketmq-dashboard:1.0.0
+oliver006/redis_exporter:v1.62.0
