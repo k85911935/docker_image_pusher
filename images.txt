@@ -15,4 +15,5 @@
 #rocketmqinc/rocketmq:4.4.0
 #apacherocketmq/rocketmq-dashboard:1.0.0
 #oliver006/redis_exporter:v1.62.0
-minio/minio:RELEASE.2024-02-26T09-33-48Z
+#minio/minio:RELEASE.2024-02-26T09-33-48Z
+prom/mysqld-exporter:v0.15.1
