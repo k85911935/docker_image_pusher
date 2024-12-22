@@ -19,5 +19,6 @@
 #prom/mysqld-exporter:v0.15.1
 #ubuntu:20.04
 #nginx:1.19.0
-nacos/nacos-server:v2.4.2
-seataio/seata-server:1.7.1
+#nacos/nacos-server:v2.4.2
+#seataio/seata-server:1.7.1
+openjdk:8
